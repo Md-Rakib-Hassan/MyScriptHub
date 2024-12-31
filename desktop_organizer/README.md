@@ -33,7 +33,7 @@ A simple bash script that organizes files on your desktop into categorized folde
 1. Clone the repository or download the script:
    ```bash
    git clone https://github.com/Md-Rakib-Hassan/MyScriptHub.git
-   cd desktop_organizer
+   cd MyScriptHub/desktop_organizer
    ```
 
 2. Make the script executable:
