@@ -42,6 +42,7 @@ A simple bash script that organizes files on your desktop into categorized folde
    ```
 
 3. Update the `desktop_path` variable in the script to your desktop's path.
+4. Update the `organizer_base_path` variable in the script to your destination path.
 
 ---
 
@@ -54,7 +55,7 @@ A simple bash script that organizes files on your desktop into categorized folde
    or double click on the file and open with Git Bash.
 
 2. The script will:
-   - Create a directory named `Desktop Files` on your desktop.
+   - Create a directory named `Desktop Files` on your destination.
    - Organize all files into subdirectories under `Desktop Files`.
    - Move all subdirectories on the desktop into an `Others Directory`.
 
